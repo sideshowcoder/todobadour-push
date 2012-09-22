@@ -1,0 +1,8 @@
+== Todobadour Push Server
+
+Using faye to push to clients
+
+=== Configuration
+
+The token used to authenticate is located in the initializers, this need to be
+setup on both server server using the push as well as in the client javascript
